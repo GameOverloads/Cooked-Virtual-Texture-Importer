@@ -11,9 +11,18 @@ To Install
 
 To Use
 - Tools > Cooked VT Importer
+
+// Single Import
 - Pick JSON To Use From FModel ( Must Match PNG Name )
 - Pick PNG To Use From FModel ( Must Match JSON Name )
+
+// Mass Import
+- Pick Folder To Use From FModel ( Must Have Texture JSON & PNG Both For Import To Work )
+
+// Universal
 - Optionally Change Stack Direction ( For Now, Top To Bottom Is What FModel Exports VT Images As )
+- Optionally Change Skip Existing ( Check - Skip Existing UE File , No Check - Overwrite All UE Files )
+
 - Hit Import
 
 * Intermediary Textures Are Created At PNG Path
