@@ -1,6 +1,5 @@
 # Cooked-Virtual-Texture-Importer
 An Unreal Engine 5.5 Plugin For Importing Cooked Virtual Textures ( From FModel Primarily )
-
 This is primarily made due to FModel's current issues with Virtual Textures, but even when fixed, this can be adapted later for creating Virtual Textures easily in Unreal Engine from Atlased Maps.
 
 To Install
@@ -25,6 +24,7 @@ To Use
 
 - Hit Import
 
+// Notes
 * Intermediary Textures Are Created At PNG Path
 * Virtual Textures Are Created With A Path From JSON Data ( You Can Move Textures After Creation & Delete Folders )
 
